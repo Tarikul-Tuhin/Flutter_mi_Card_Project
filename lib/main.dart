@@ -108,7 +108,7 @@ class MyApp extends StatelessWidget {
                     color: Colors.teal,
                   ),
                   title: Text(
-                    'www.github.com/tuhin',
+                    'github.com/Tarikul-Tuhin/Flutter_mi_Card_Project.git',
                     style: TextStyle(
                       fontFamily: 'Source Sans Pro',
                       color: Colors.teal.shade900,
